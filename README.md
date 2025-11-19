@@ -15,7 +15,7 @@ git clone https://github.com/hashirsajid58200p/forest-dawn-grub-theme.git
 cd forest-dawn-grub-theme
 ```
 
-**Step 3: Make the installer script executable (IMPORTANT)**
+**Step 3: Make the installer script executable**
 ```bash
 chmod +x install.sh
 ```
